@@ -1,2 +1,2 @@
 # haarcascade
- Estudo de Haarcascade com OpenCV
+ Estudo e aplicação de Haarcascade com OpenCV.
